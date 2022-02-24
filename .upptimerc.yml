@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: SiteUptimely
-  introTitle: [**SiteUptimely**](https://siteuptimely.com/) is a trusted website monitoring tool that helps keep track of your website's downtime, performance, and domain health.
+  introTitle: "[**SiteUptimely**](https://siteuptimely.com/) is a trusted website monitoring tool that helps keep track of your website's downtime, performance, and domain health."
   introMessage: It is used by thousands of websites all over the world.
   navbar:
     - title: Home

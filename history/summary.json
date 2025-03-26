@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 104,
-    "timeDay": 105,
+    "timeDay": 86,
     "timeWeek": 146,
     "timeMonth": 121,
     "timeYear": 109,
@@ -33,13 +33,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 84,
+    "timeDay": 45,
     "timeWeek": 115,
-    "timeMonth": 182,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2024-03-26": 18
-    }
+    "timeMonth": 177,
+    "timeYear": 210,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -53,13 +51,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 292,
-    "timeDay": 175,
-    "timeWeek": 253,
-    "timeMonth": 320,
-    "timeYear": 294,
+    "timeDay": 115,
+    "timeWeek": 208,
+    "timeMonth": 313,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2024-08-24": 19,
-      "2024-03-26": 23
+      "2024-08-24": 19
     }
   },
   {
@@ -68,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "58.28%",
+    "uptime": "58.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 167,
-    "timeDay": 97,
-    "timeWeek": 107,
-    "timeMonth": 145,
+    "timeDay": 115,
+    "timeWeek": 89,
+    "timeMonth": 140,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-03-25": 64,
+      "2025-03-26": 64,
+      "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -442,8 +440,7 @@
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
-      "2024-03-27": 1440,
-      "2024-03-26": 1440
+      "2024-03-27": 1440
     }
   }
 ]

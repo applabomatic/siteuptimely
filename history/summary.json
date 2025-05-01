@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 105,
-    "timeDay": 112,
-    "timeWeek": 104,
-    "timeMonth": 105,
+    "timeDay": 93,
+    "timeWeek": 97,
+    "timeMonth": 101,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-08-07": 99,
-      "2024-08-06": 1,
-      "2024-05-01": 22
+      "2024-08-06": 1
     }
   },
   {
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 239,
-    "timeWeek": 272,
+    "timeDay": 43,
+    "timeWeek": 198,
     "timeMonth": 205,
-    "timeYear": 213,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 519,
-    "timeWeek": 270,
-    "timeMonth": 341,
-    "timeYear": 304,
+    "time": 295,
+    "timeDay": 158,
+    "timeWeek": 250,
+    "timeMonth": 333,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2024-08-24": 19
     }
@@ -65,18 +64,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "56.47%",
+    "uptime": "56.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 125,
-    "timeDay": 88,
-    "timeWeek": 111,
-    "timeMonth": 92,
+    "timeDay": 85,
+    "timeWeek": 114,
+    "timeMonth": 93,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-04-30": 67,
+      "2025-05-01": 73,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -439,8 +439,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]

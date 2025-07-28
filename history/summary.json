@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 107,
-    "timeDay": 81,
-    "timeWeek": 84,
+    "timeDay": 72,
+    "timeWeek": 82,
     "timeMonth": 88,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 111,
-    "timeWeek": 166,
+    "timeDay": 79,
+    "timeWeek": 161,
     "timeMonth": 142,
     "timeYear": 198,
     "dailyMinutesDown": {}
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 359,
-    "timeWeek": 283,
-    "timeMonth": 321,
+    "timeDay": 399,
+    "timeWeek": 321,
+    "timeMonth": 320,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-08-24": 19
@@ -64,18 +64,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "52.49%",
+    "uptime": "52.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 123,
-    "timeDay": 106,
-    "timeWeek": 80,
+    "timeDay": 64,
+    "timeWeek": 81,
     "timeMonth": 78,
-    "timeYear": 145,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-07-27": 82,
+      "2025-07-28": 81,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -438,8 +439,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   }
 ]
